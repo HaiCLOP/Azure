@@ -8,7 +8,7 @@ import random
 import re
 
 
-TOKEN = 'MTIxOTIyNDk1NzgzNDQ5ODA1OQ.GRTKIg.lex081EQdVZamQLKDp6qTyPNwc-FsTSSC7EW8w'
+TOKEN = 'Enter-Your-Token'
 
 intents = discord.Intents.default()
 intents.voice_states = True
